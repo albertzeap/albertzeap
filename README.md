@@ -53,16 +53,14 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://albert-paez-portfolio.web.app/"><img src="https://img.shields.io/badge/-albertpaezportfolio.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/albert-paez-30501a1b5/"><img src="https://img.shields.io/badge/-Albert%20Shane%20Paez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://albert-paez-portfolio.web.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-albertpaezportfolio.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/albert-paez-30501a1b5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Albert%20Shane%20Paez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:albertzeap@gmail.com"><img src="https://img.shields.io/badge/-albertzeap@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
 <!-- <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 <!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
 <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=albertzeap&repo=Paez-Visuals)
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
