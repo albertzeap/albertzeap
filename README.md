@@ -62,5 +62,7 @@
 <!-- <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
 </p>
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=albertzeap&repo=Paez-Visuals)
+
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
