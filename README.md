@@ -6,6 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+![counter](https://envz615ioys8kx2.m.pipedream.net);
 💡 &nbsp;I like to learn new technologies, create web applications, and create solutions that can help others.\
 🎓 &nbsp;I'm a recent graduate of California State University Fullerton and received my Bachelor's of Science in Computer Science.\
 🌱 &nbsp;I'm currently learning technologies for full stack development such as React, Node.js, MongoDB, and Java.\
@@ -49,7 +50,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=albertzeap&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![counter](https://envz615ioys8kx2.m.pipedream.net)
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
