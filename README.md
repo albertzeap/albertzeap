@@ -54,7 +54,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://albertpaez.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-albertpaezportfolio.web.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://albertpaez.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-albertpaez.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/albert-paez-30501a1b5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Albert%20Shane%20Paez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:albertzeap@gmail.com"><img src="https://img.shields.io/badge/-albertzeap@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> -->
