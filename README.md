@@ -7,8 +7,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to learn new technologies, create web applications, and create solutions that can help others.\
-🎓 &nbsp;I'm a recent graduate of California State University Fullerton and received my Bachelor's of Science in Computer Science.\
-🌱 &nbsp;I'm currently learning technologies for full stack development such as React, Node.js, MongoDB, and Java.\
+🎓 &nbsp;I'm a graduate from California State University Fullerton and received my Bachelor's of Science in Computer Science.\
+🌱 &nbsp;I worked as a full stack Java developer with Cognixia and am currently learning more full stack technologies.\
 ✍️ &nbsp;In my free time, I pursue videography, graphic design, and drumming.\
 💬 &nbsp;Feel free to reach out for collaborations or job offers.\
 ✉️ &nbsp;You can shoot me an email at albertzeap@gmail.com! I'll try to respond as soon as I can.
